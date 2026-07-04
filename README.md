@@ -1,6 +1,6 @@
 # Data Structures & Algorithms
 
-A collection of Data Structures and Algorithms implementations and problem solutions written in **Kotlin**. This repository documents my journey of learning algorithmic problem-solving, preparing for technical interviews, and strengthening my understanding of computer science fundamentals.
+A collection of Data Structures and Algorithms implementations and problem solutions written in **Kotlin&Java**. This repository documents my journey of learning algorithmic problem-solving, preparing for technical interviews, and strengthening my understanding of computer science fundamentals.
 
 ## 📚 Topics Covered
 
@@ -52,8 +52,8 @@ A collection of Data Structures and Algorithms implementations and problem solut
 
 ## 🛠️ Tech Stack
 
-* **Language:** Kotlin
-* **IDE:** Android Studio / IntelliJ IDEA
+* **Language:** Kotlin & Java
+* **IDE:** IntelliJ IDEA
 * **Version Control:** Git & GitHub
 
 ## 📂 Repository Structure
@@ -81,7 +81,7 @@ DataStructuresAndAlgorithms/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/DataStructuresAndAlgorithms.git
+git clone https://github.com/zmaryalaiali/DSA.git
 ```
 
 2. Open the project in IntelliJ IDEA or Android Studio.
